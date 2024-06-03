@@ -43,13 +43,13 @@ Run the migrations
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/LucasSan/lovelystay-backend-test
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd lovelystay-backend-test
 ```
 
 Install dependencies
